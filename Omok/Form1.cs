@@ -11,7 +11,6 @@ using System.Windows.Forms;
 
 namespace Omok
 {
-    //save
     public partial class Form1 : Form
     {
         int[,] pan = new int[19,19];
